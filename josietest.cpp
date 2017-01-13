@@ -1,2 +1,0 @@
-// Josie Code
-//main file
